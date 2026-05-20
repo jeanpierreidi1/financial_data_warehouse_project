@@ -10,7 +10,7 @@ This project builds a financial data warehouse using banking transaction data. T
 - Power BI
 - GitHub
 
-3. Data Pipeline
+3. Data Pipeline: 
 Raw CSV → Python Cleaning → PostgreSQL Raw Table → Dimension Tables → Fact Table → SQL Analytics → Power BI Dashboard
 
 4. Data Model
