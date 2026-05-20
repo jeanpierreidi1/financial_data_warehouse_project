@@ -1,6 +1,6 @@
 Financial Data Warehouse & Reporting Project
 
-1. Project Overview
+1. Project Overview: 
 This project builds a financial data warehouse using banking transaction data. The goal is to transform raw financial transactions into structured fact and dimension tables for reporting and analytics.
 
 2. Tools Used
